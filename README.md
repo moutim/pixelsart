@@ -6,4 +6,4 @@ Desenvolvido com HTML,CSS e JavaScript.
 
 [Acessar](https://moutim.github.io/pixelsart/)
 
-[preview](preview.png)
+![image-20220219224639838](preview.png)
